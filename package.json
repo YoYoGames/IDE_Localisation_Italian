@@ -1,6 +1,6 @@
 {
   "name": "@localisation_plugins/italian",
-  "version": "1.0.0",
+  "version": "{$MAJOR}.{$MINOR}.{$BUILD}",
   "description": "Italian IDE localisations",
   "main": "index.js",
   "scripts": {
